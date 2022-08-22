@@ -1,0 +1,10 @@
+
+        img {
+            width:fit-content;
+            border-radius: 30px;
+            float:left;
+            margin-right: 20px;
+        }
+        p.welcome {
+            font-size: 60px;
+        }
